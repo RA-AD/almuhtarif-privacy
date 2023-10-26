@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+[["We" or "I", or Website or App ALMUHTARIF]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
@@ -37,4 +37,4 @@ This Privacy Policy is effective as of [[Date]] and will remain in effect except
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+For any questions or concerns regarding the privacy policy, please send [[ t.me/ra0ad ]] an email to [[sammerraad76@gmail.com]].
